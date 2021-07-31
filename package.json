@@ -1,0 +1,25 @@
+{
+  "name": "reduxstore",
+  "version": "1.0.0",
+  "description": "Module 22. ReduxStore Challange",
+  "main": "index.js",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.6.1",
+    "redux": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambollano/ReduxStore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sambollano/ReduxStore/issues"
+  },
+  "homepage": "https://github.com/sambollano/ReduxStore#readme"
+}
